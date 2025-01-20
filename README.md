@@ -1,7 +1,3 @@
-Here’s a **detailed and polished README.md** file for your GitHub project, including a proper overview, conclusion, and all the essential elements:  
-
----
-
 # 🧠 Intelligent Resume Screening with LangChain and LLM  
 
 An AI-powered resume screening tool designed to transform the recruitment process by automating the extraction, analysis, and querying of resumes with precision and efficiency. This project combines cutting-edge natural language processing (NLP) techniques and efficient similarity search methods to streamline candidate evaluation, saving time and resources for recruiters.
